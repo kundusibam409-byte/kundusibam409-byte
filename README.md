@@ -5,7 +5,12 @@
     width="100%"
   />
 </p>
+<h2 align="center">📊 GitHub Statistics</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kundusibam409-byte&show_icons=true&theme=transparent&hide_border=true"
+       alt="Sibam's GitHub Stats">
+</p>
 # Nexus with Sibam 👋
 
 ### Designing Experiences. Developing the Future. 🚀
