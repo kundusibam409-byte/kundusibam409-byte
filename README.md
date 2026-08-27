@@ -26,6 +26,22 @@ I'm Sibam Kundu — a student, developer, and graphics designer passionate about
        alt="Featured Projects"
        width="100%">
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kundusibam409-byte&theme=transparent&hide_border=true"
+       alt="GitHub Contribution Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundusibam409-byte&layout=compact&theme=transparent&hide_border=true"
+       alt="Top Languages">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kundusibam409-byte&show_icons=true&theme=transparent&hide_border=true" width="49%">
+  <img src="https://streak-stats.demolab.com?user=kundusibam409-byte&theme=transparent&hide_border=true" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundusibam409-byte&layout=compact&theme=transparent&hide_border=true">
+</p>
 
 ## 💻 What I Do
 
