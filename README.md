@@ -25,3 +25,8 @@ I'm Sibam Kundu — a student, developer, and graphics designer passionate about
 **Nexus by Sibam** — exploring the intersection of creativity, code, and technology.
 
 > Creativity + Code + Curiosity = Innovation ✨
+<p align="center">
+  <img src="./assets/nexus-contact-banner.png"
+       alt="Let's Connect"
+       width="100%">
+</p>
