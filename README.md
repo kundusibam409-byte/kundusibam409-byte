@@ -35,31 +35,74 @@ I'm Sibam Kundu — a student, developer, and graphics designer passionate about
 🚀 Featured Projects
 
   A collection of projects built with code, creativity, and curiosity.
-      🍚 WB Ration Connect
+
+
+
+  
+<td width="50%" valign="top" align="center">
+
+  <h3>🍚 WB Ration Connect</h3>
+
+  <p>
+    <strong>Web-Based Ration Management System</strong>
+  </p>
+
+  <p align="left">
+    <strong>WB Ration Connect</strong> is a web-based ration management system designed to digitize and streamline <strong>Public Distribution System operations</strong>.
+  </p>
+
+  <p align="left">
+    <strong>Key Features:</strong><br>
+    🔐 Secure Admin Login &nbsp; • &nbsp;
+    📊 Dashboard Analytics<br>
+    👨‍👩‍👧 Family Registration &nbsp; • &nbsp;
+    👨‍💼 Employee Management<br>
+    📦 Stock Management &nbsp; • &nbsp;
+    📅 Monthly Distribution<br>
+    📢 Notice Board &nbsp; • &nbsp;
+    📄 Downloadable Forms<br>
+    🔳 QR Code Integration &nbsp; • &nbsp;
+    🔎 Smart Search<br>
+    💾 Database Backup &nbsp; • &nbsp;
+    📱 Responsive Dashboard
+  </p>
+
   <p align="center">
     <a href="https://wbrationconnect.site.je/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Website-Visit%20Project-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit WB Ration Connect">
+      <img src="https://img.shields.io/badge/🌐%20LIVE%20WEBSITE-00B894?style=for-the-badge&labelColor=0D1117" alt="Live Website">
     </a>
   </p>
 
-  <p align="center">
-    A web-based ration management system designed to digitize and streamline Public Distribution System operations with secure administration, family and employee management, stock tracking, monthly distribution, analytics, QR integration, notices, downloadable forms, database backup, and smart search.
-  </p>
 </td>
 
-<td width="50%" valign="top">
-  <h3 align="center">🎀 Raksha Bandhan Wisher</h3>
+<td width="50%" valign="top" align="center">
+
+  <h3>🎀 Raksha Bandhan Wisher</h3>
+
+  <p>
+    <strong>Interactive Digital Wishing Experience</strong>
+  </p>
+
+  <p align="left">
+    <strong>Raksha Bandhan Wisher</strong> is an interactive and beautifully designed digital wishing experience created to make festive greetings more <strong>personal, memorable, and engaging</strong>.
+  </p>
+
+  <p align="left">
+    <strong>Experience:</strong><br>
+    🎨 Beautiful &nbsp; • &nbsp;
+    ✨ Interactive &nbsp; • &nbsp;
+    💝 Personal &nbsp; • &nbsp;
+    🎉 Festive
+  </p>
 
   <p align="center">
     <a href="https://kundusibam409-byte.github.io/RakshaBandhan_Wisher/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Raksha Bandhan Wisher">
+      <img src="https://img.shields.io/badge/✨%20LIVE%20DEMO-FF4F81?style=for-the-badge&labelColor=0D1117" alt="Live Demo">
     </a>
   </p>
 
-  <p align="center">
-    An interactive and beautifully designed digital Raksha Bandhan wishing experience created to make festive greetings more personal, memorable, and engaging.
-  </p>
 </td>
+
 
 ## 💻 What I Do
 
