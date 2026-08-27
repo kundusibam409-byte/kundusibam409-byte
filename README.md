@@ -5,6 +5,13 @@
     width="100%"
   />
 </p>
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kundusibam409-byte&theme=github_dark"
+       alt="GitHub Profile Summary"
+       width="100%">
+</p>
 
 ### Designing Experiences. Developing the Future. 🚀
 
