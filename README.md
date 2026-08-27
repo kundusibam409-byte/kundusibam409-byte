@@ -21,6 +21,12 @@ I'm Sibam Kundu — a student, developer, and graphics designer passionate about
        alt="Tech Stack"
        width="100%">
 </p>
+<h3 align="center">💻 Technologies & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,flutter,firebase,supabase,git,github,vscode,photoshop,figma"
+       alt="Tech Stack">
+</p>
 <p align="center">
   <img src="./assets/nexus-projects-banner.png"
        alt="Featured Projects"
