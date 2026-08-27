@@ -5,6 +5,7 @@
     width="100%"
   />
 </p>
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
@@ -16,22 +17,26 @@
 ### Designing Experiences. Developing the Future. 🚀
 
 I'm Sibam Kundu — a student, developer, and graphics designer passionate about technology, creativity, and building digital experiences.
+
 <p align="center">
   <img src="./assets/nexus-tech-stack.png"
        alt="Tech Stack"
        width="100%">
 </p>
+
 <h3 align="center">💻 Technologies & Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,flutter,firebase,supabase,git,github,vscode,photoshop,figma"
        alt="Tech Stack">
 </p>
+
 <p align="center">
   <img src="./assets/nexus-projects-banner.png"
        alt="Featured Projects"
        width="100%">
 </p>
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
@@ -69,6 +74,7 @@ I'm Sibam Kundu — a student, developer, and graphics designer passionate about
     </td>
   </tr>
 </table>
+
 ## 💻 What I Do
 
 - 🌐 Web Development
@@ -82,6 +88,7 @@ I'm Sibam Kundu — a student, developer, and graphics designer passionate about
 **Nexus by Sibam** — exploring the intersection of creativity, code, and technology.
 
 > Creativity + Code + Curiosity = Innovation ✨
+
 <p align="center">
   <img src="./assets/nexus-contact-banner.png"
        alt="Let's Connect"
