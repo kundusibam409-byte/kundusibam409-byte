@@ -100,19 +100,21 @@ I'm **Sibam Kundu** — a student, developer, and graphics designer passionate a
     <td width="100%" valign="top">
       <h3>🎀 Raksha Bandhan Wisher</h3>
       <p><strong>Interactive Digital Wishing Experience</strong></p>
-      
-      <p>
-        <strong>Raksha Bandhan Wisher</strong> is an interactive and beautifully designed digital wishing experience created to make festive greetings more <strong>personal, memorable, and engaging</strong>.
-      </p>
-      
-      <p>
-        <strong>Experience:</strong><br>
-        🎨 Beautiful &nbsp; • &nbsp; ✨ Interactive &nbsp; • &nbsp; 💝 Personal &nbsp; • &nbsp; 🎉 Festive
-      </p>
-      
-      <p align="center">
-        <a href="https://kundusibam409-byte.github.io/RakshaBandhan_Wisher/" target="_blank">
-          <img src="https://img.shields.io/b
+        <p>
+    <strong>Raksha Bandhan Wisher</strong> is an interactive and beautifully designed digital wishing experience created to make festive greetings more <strong>personal, memorable, and engaging</strong>.
+  </p>
+  
+  <p>
+    <strong>Experience:</strong><br>
+    🎨 Beautiful &nbsp; -  &nbsp; ✨ Interactive &nbsp; -  &nbsp; 💝 Personal &nbsp; -  &nbsp; 🎉 Festive
+  </p>
+  
+  <p align="center">
+    <a href="https://kundusibam409-byte.github.io/RakshaBandhan_Wisher/" target="_blank">
+      <img src="https://img.shields.io/badge/✨%20LIVE%20DEMO-FF4F81?style=for-the-badge&labelColor=0D1117" alt="Live Demo">
+    </a>
+  </p>
+</td>
   </tr>
 </table>
 
@@ -125,45 +127,44 @@ I'm **Sibam Kundu** — a student, developer, and graphics designer passionate a
     <td width="100%" valign="top">
       <h3>🩺 Nexus-MedVision</h3>
       <p><strong>AI-Powered Medical Image Analysis Web Application</strong> &nbsp;|&nbsp; <code>v1.0.0</code></p>
-      
-      <p align="center">
-        <img
-          src="./assets/nexus-medvision-preview.png.jpg"
-          alt="Nexus-MedVision Project Preview"
-          width="90%"
-        />
-      </p>
-      
-      <p>
-        <strong>Developer:</strong> Sibam Kundu<br>
-        <strong>Technology:</strong> Python, Flask, HTML5, CSS3, JavaScript, Google Gemini API
-      </p>
-      
-      <p>
-        <strong>Nexus-MedVision</strong> is an educational medical-image analysis platform. Users can upload a medical or health-related image and Gemini AI attempts to provide structured educational information.
-      </p>
-      
-      <p>
-        <strong>Key Features:</strong><br>
-        📤 Medical Image Upload &nbsp; • &nbsp; 🤖 Google Gemini AI Analysis<br>
-        🔬 Image Type Identification &nbsp; • &nbsp; 👁️ Visible Observations<br>
-        📚 General Educational Information &nbsp; • &nbsp; ⚠️ Analysis Limitations<br>
-        👨‍⚕️ Professional-Advice Guidance &nbsp; • &nbsp; 🖥️ Responsive Web Interface<br>
-        📋 Structured Markdown Results &nbsp; • &nbsp; 🛡️ API Key Protection<br>
-        🚫 Unclear/Non-Medical Image Handling &nbsp; • &nbsp; 📜 Analysis History<br>
-        ℹ️ About Page &nbsp; • &nbsp; ❌ Error Handling Page
-      </p>
-      
-      <p>
-        <em>⚠️ This is an educational technology project and must NOT be presented as a diagnostic or medical decision-making system. The AI does not diagnose diseases.</em>
-      </p>
-      
-      <p align="center">
-        <a href="https://github.com/kundusibam409-byte/Nexus-MedVision" target="_blank">
-          <img src="https://img.shields.io/badge/📂%20GITHUB%20REPO-181717?style=for-the-badge&labelColor=0D1117" alt="GitHub Repository">
-        </a>
-      </p>
-    </td>
+        <p align="center">
+    <img
+      src="./assets/nexus-medvision-preview.png.jpg"
+      alt="Nexus-MedVision Project Preview"
+      width="90%"
+    />
+  </p>
+  
+  <p>
+    <strong>Developer:</strong> Sibam Kundu<br>
+    <strong>Technology:</strong> Python, Flask, HTML5, CSS3, JavaScript, Google Gemini API
+  </p>
+  
+  <p>
+    <strong>Nexus-MedVision</strong> is an educational medical-image analysis platform. Users can upload a medical or health-related image and Gemini AI attempts to provide structured educational information.
+  </p>
+  
+  <p>
+    <strong>Key Features:</strong><br>
+    📤 Medical Image Upload &nbsp; -  &nbsp; 🤖 Google Gemini AI Analysis<br>
+    🔬 Image Type Identification &nbsp; -  &nbsp; 👁️ Visible Observations<br>
+    📚 General Educational Information &nbsp; -  &nbsp; ⚠️ Analysis Limitations<br>
+    👨‍⚕️ Professional-Advice Guidance &nbsp; -  &nbsp; 🖥️ Responsive Web Interface<br>
+    📋 Structured Markdown Results &nbsp; -  &nbsp; 🛡️ API Key Protection<br>
+    🚫 Unclear/Non-Medical Image Handling &nbsp; -  &nbsp; 📜 Analysis History<br>
+    ℹ️ About Page &nbsp; -  &nbsp; ❌ Error Handling Page
+  </p>
+  
+  <p>
+    <em>⚠️ This is an educational technology project and must NOT be presented as a diagnostic or medical decision-making system. The AI does not diagnose diseases.</em>
+  </p>
+  
+  <p align="center">
+    <a href="https://github.com/kundusibam409-byte/Nexus-MedVision" target="_blank">
+      <img src="https://img.shields.io/badge/📂%20GITHUB%20REPO-181717?style=for-the-badge&labelColor=0D1117" alt="GitHub Repository">
+    </a>
+  </p>
+</td>
   </tr>
 </table>
 
