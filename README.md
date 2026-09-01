@@ -68,27 +68,26 @@ I'm **Sibam Kundu** — a student, developer, and graphics designer passionate a
     <td width="100%" valign="top">
       <h3>🍚 WB Ration Connect</h3>
       <p><strong>Web-Based Ration Management System</strong></p>
-      
-      <p>
-        <strong>WB Ration Connect</strong> is a web-based ration management system designed to digitize and streamline <strong>Public Distribution System operations</strong>.
-      </p>
-      
-      <p>
-        <strong>Key Features:</strong><br>
-        🔐 Secure Admin Login &nbsp; • &nbsp; 📊 Dashboard Analytics<br>
-        👨‍👩‍👧 Family Registration &nbsp; • &nbsp; 👨‍💼 Employee Management<br>
-        📦 Stock Management &nbsp; • &nbsp; 📅 Monthly Distribution<br>
-        📢 Notice Board &nbsp; • &nbsp; 📄 Downloadable Forms<br>
-        🔳 QR Code Integration &nbsp; • &nbsp; 🔎 Smart Search<br>
-        💾 Database Backup &nbsp; • &nbsp; 📱 Responsive Dashboard
-      </p>
-      
-      <p align="center">
-        <a href="https://wbrationconnect.site.je/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐%20LIVE%20WEBSITE-00B894?style=for-the-badge&labelColor=0D1117" alt="Live Website">
-        </a>
-      </p>
-    </td>
+        <p>
+    <strong>WB Ration Connect</strong> is a web-based ration management system designed to digitize and streamline <strong>Public Distribution System operations</strong>.
+  </p>
+  
+  <p>
+    <strong>Key Features:</strong><br>
+    🔐 Secure Admin Login &nbsp; -  &nbsp; 📊 Dashboard Analytics<br>
+    👨‍👩‍👧 Family Registration &nbsp; -  &nbsp; 👨‍💼 Employee Management<br>
+    📦 Stock Management &nbsp; -  &nbsp; 📅 Monthly Distribution<br>
+    📢 Notice Board &nbsp; -  &nbsp; 📄 Downloadable Forms<br>
+    🔳 QR Code Integration &nbsp; -  &nbsp; 🔎 Smart Search<br>
+    💾 Database Backup &nbsp; -  &nbsp; 📱 Responsive Dashboard
+  </p>
+  
+  <p align="center">
+    <a href="https://wbrationconnect.site.je/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐%20LIVE%20WEBSITE-00B894?style=for-the-badge&labelColor=0D1117" alt="Live Website">
+    </a>
+  </p>
+</td>
   </tr>
 </table>
 
@@ -113,10 +112,7 @@ I'm **Sibam Kundu** — a student, developer, and graphics designer passionate a
       
       <p align="center">
         <a href="https://kundusibam409-byte.github.io/RakshaBandhan_Wisher/" target="_blank">
-          <img src="https://img.shields.io/badge/✨%20LIVE%20DEMO-FF4F81?style=for-the-badge&labelColor=0D1117" alt="Live Demo">
-        </a>
-      </p>
-    </td>
+          <img src="https://img.shields.io/b
   </tr>
 </table>
 
